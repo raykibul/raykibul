@@ -3,5 +3,28 @@
 {% block title %}Contact US
 {% endblock title %}
 
-{% block body %} <h1>This is Contacting Me</h1>
+{% block body %} 
+<h2>Contact Rakibul Islam</h1>
+<div class="container">
+
+<form method="POST" action="/contact">
+  <div class="form-row">
+    {% csrf_token %}
+    <div class="form-group col-md-6">
+      <label for="inputEmail">Email</label>
+      <input type="email"  name="inputEmail" class="form-control" id="inputEmail" placeholder="Email">
+    </div>
+    <div class="form-group col-md-6">
+      <label for="inputName">Name</label>
+      <input type="text" name="inputName" class="form-control" id="inputName" placeholder="Name">
+    </div>
+     <div class="form-group col-md-6">
+      <label for="message">Message</label>
+      <textarea type="text" name="message"class="form-control"  id="message" cols="30" rows="5"></textarea>
+       </div>
+  </div>
+   
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+</div>
 {% endblock body %}
