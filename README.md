@@ -1,2 +1,2 @@
 # raykibul.com
- my personal web site with django
+working on building my personal website with django
