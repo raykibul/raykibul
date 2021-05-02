@@ -5,7 +5,7 @@
 
  
 
-- I develope android app 
+- I develop android app 
 - Make videos on youtube
 - Help students to learn 
 
