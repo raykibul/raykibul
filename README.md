@@ -2,13 +2,7 @@
 ## Native Android Developer | Youtuber | Django| Firebase
 
 [![N|Solid](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/raykibul)
-
  
-
-- I develop android app 
-- Make videos on youtube
-- Help students to learn 
-
 ## Connect with me
 
  
