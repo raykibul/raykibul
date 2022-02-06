@@ -1,5 +1,5 @@
-# Hi I  am Rakibul Islam..A Man Searching for meaning.
-## App Developer | Youtuber | Engineer
+# Hi I  am Rakibul Islam.
+## Native Android Developer | Youtuber | Django| Firebase
 
 [![N|Solid](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/raykibul)
 
