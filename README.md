@@ -12,5 +12,5 @@
 | Facebook | https://facebook.com/raykibul|
 | Email | raykibul@gmail.com|
 | Website | www.raykibul.com|
-| Youtube | https://youtube.com/rakibulislamcse|
+| Youtube | https://youtube.com/raykibul|
 | Linked in | https://www.linkedin.com/in/raykibul|
