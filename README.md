@@ -1,5 +1,5 @@
 # Hi I  am Rakibul Islam.
-## Native Android Developer | Youtuber | Django| Firebase
+## Android Developer | Youtuber | React | Node | Django| Firebase
 
 [![N|Solid](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/raykibul)
  
