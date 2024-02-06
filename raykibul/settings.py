@@ -16,7 +16,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "raykibul.com",
     "https://raykibul.com, www.raykibul.com",
-    "localhost:8000",
+    "127.0.0.1",
+    "127.0.0.1:8000",
 ]
 
 
