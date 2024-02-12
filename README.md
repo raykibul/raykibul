@@ -1,2 +1,1 @@
-# Hi I  am Rakibul Islam.
-## raykibul.com
+# Hi there! how're you doin ? 
