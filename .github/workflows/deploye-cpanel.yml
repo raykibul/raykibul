@@ -23,3 +23,4 @@ jobs:
           git init
           git remote add rakib "https://github.com/raykibul/raykibul.git"
           git pull rakib main
+          pip install -r requirements.txt
