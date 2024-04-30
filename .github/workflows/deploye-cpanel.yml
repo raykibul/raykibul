@@ -16,4 +16,10 @@ jobs:
         username: ${{ secrets.SSH_USERNAME }}
         key: ${{ secrets.SSH_KEY }}
         port: ${{ secrets.SSH_PORT }}
-        script: whoami
+        script: |
+          whoami
+          ls -al
+          cd raykibul
+          git init
+          git remote add rakib "https://github.com/raykibul/raykibul.git"
+          git pull rakib main
