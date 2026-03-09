@@ -5,6 +5,12 @@
 
 - 📫 How to reach me **raykibul@gmail.com**
 
+- Currentlly working on an edtech platform , that would help bd student with doubt solving + mcq + flashcards . 
+
+you can have an early look here . https://quizclub.io. 
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raykibul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raykibul" height="30" width="40" /></a>
