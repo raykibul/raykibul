@@ -5,9 +5,10 @@
 
 - 📫 How to reach me **raykibul@gmail.com**
 
-- Currentlly working on an edtech platform , that would help bd student with doubt solving + mcq + flashcards . 
-
-you can have an early look here . https://quizclub.io. 
+My projects 
+1. Agentic - OCR . https://agentic-ocr.xyz ( build this for quizclub, to extract info from pdfs)
+2. QuizClub - https://quizclub.io (working , early phase )
+3. ReplyRight - https://replyright.xyz ( unfinished. thought in the era of agents, no body would use my platform to automate fb / whatsapp)
 
 
 
